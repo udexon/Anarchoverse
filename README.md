@@ -8,6 +8,7 @@ Yet, when Karl Marx penned the Communist Manifesto, it was a work of fiction, un
 
 Anarchoverse is the name of a computer game that simulates the Anarchic Revolution, except that we do not know if the programs in Anarchoverse may one day connect themselves to the real world.
 
+The "killer app" in Anarchoverse is the AnarchoToken, a simple yet revolutionary asymetric cryptographic scheme to realize borderless micropayments and decentralized messaging. 
 
 
 
