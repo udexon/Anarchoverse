@@ -14,7 +14,7 @@ While asymetric cryptography has become the foundations of numerous revolutionar
 
 https://github.com/udexon/DatongToken
 
-We use the names DatongToken and AnarchoToken interachangeably, for different audiences. In terms of implementation, the name Anarchoverse captures the imagination much better, so that we can recruit as many collaborators as possible, as soon as possible.
+We use the names DatongToken and AnarchoToken interchangeably, for different audiences. In terms of implementation, the name Anarchoverse captures the imagination much better, so that we can recruit as many collaborators as possible, as soon as possible.
 
 The core engine of AnarchoToken is based on the "stack machine shell" -- also a simple yet revolutionary piece of work:
 
