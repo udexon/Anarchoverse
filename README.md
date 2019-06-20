@@ -34,6 +34,6 @@ The answer is again simple and revolutionary: it may destroy the existing global
 
 How is that possible? How is such a simple idea able to destroy the global financial system?
 
-Let's remind ourselves that we are discussing the technicalities of AnarchoToken in the context of 
+Let's remind ourselves that we are discussing the technicalities of AnarchoToken in the context of Anarchoverse -- a work of fiction and computer game.
 
 
