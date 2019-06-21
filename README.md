@@ -49,3 +49,6 @@ What is the barrier of entry for anyone to become an Anarcho Agent? Refer to tra
 The short answer is: Most users would have at least one bank account in the modern world, but the chances of the sender and recipient to have accounts in the same bank would be much lower. In such cases, we need a chain of Anarcho Agents who can act as payment gateways (much like Internet router) to connect the bank of the sender to the bank of the recipient. The only other missing ingredient is a system to autheticate the identities of the sender, recipient and the Anarcho Agents, which asymmetric crytography can provide.
 
 Although conventional commercial money transfer services like Western Union play the role of the payment gateway, their commission fees are quite hefty. With Anarchonet, Anarcho Agents will compete with each other to reach the lowest fees.
+
+The advent of social networks has created the phenomena of Internet stars will millions of followers, with thousands of likes on videos or photos posted on a daily basis. It urgently needs a solution like Anarchonet to monetize these activities optimally. Although Facebook has launched its own cryptocurrency Libra recently, Anarchonet is much more superior, perhaps the final form of evolution in payment gateways.
+
