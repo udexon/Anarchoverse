@@ -62,3 +62,48 @@ Although the Internet and the Unix operating system were developed by almost the
 As a multi-user operating system, Unix has a centralized identity management system. Although the Internet is decentralized, the Unix servers connected to the Internet manage their users in a centralized manner. Even as modern social networks have reached billions in the number of users, the identity management of these social networks is still centralized.
 
 Can identity management be decentralized? The short answer is yes. The long answer is that literature on asymmetric cryptography did not address this issue explicitly. 
+
+
+Asymmetric cryptography was not publicized due to government secrecy during the early days of Unix development, as traditional symmetric encryption sufficed for a centralized multi-user system.
+
+https://en.m.wikipedia.org/wiki/Public-key_cryptography
+
+
+Perhaps the most common example of asymmetric cryptography is the transport layer security protocol used in web connections.  
+
+-- The identity of the communicating parties can be authenticated using public-key cryptography. This authentication can be made optional, but is generally required for at least one of the parties (typically the server).
+
+https://en.m.wikipedia.org/wiki/Transport_Layer_Security
+
+In a typical web browser scenario, public key cryptography (asymmetric cryptography) is used to authenticate the identity of the server, not users. 
+
+In messaging apps like WhatsApp, identity management is still centralized. 
+
+How can identity management for payment transactions or messaging services be decentralized?
+
+Again, the Internet itself provides the lessons. 
+
+In a typical Internet connection, e.g. http used for web browsing, a data packet is sent through a port, together with the IP address (IPv4 or IPv6), from the source network interface, via a series of routers, until it reaches the destination network interface.
+
+In this scenario, we may say that the identity  management of the network interfaces (IP addresses) is centralized, as all IP addresses used around the world are coordinated using the domain name system (DNS), so that there are no conflicts. 
+
+However, for IP protocols, Intranets that are isolated from Internet can be set up. Within  Intranets, IP address (identity) management is independent. 
+
+
+For Anarchonet, public keys of sender, recipient and agents need only to exist uniquely for the lifetime of a transaction. Public keys can be generated using any chosen cryptographic program as agreed by sender, recipient and agents. 
+
+Much like an Intranet, where the identities (IP addresses) are unique within an isolated network, Anarchonet public keys (which represent the identities of sender, recipient and agents) are unique over a short period of time, involving a limited number of participants. 
+
+Like an Intranet, where the identity management is centralized within the isolated network, the identity management for Anarchonet is only centralized within a cell consisting of the participants. 
+
+We may say that the identity management for Intranet is decentralized with respect to the rest of the Internet. Similarly, we may say that identity management for Anarchonet is decentralized with respect to the rest of the Internet. 
+
+Hence the vulnerabilities of Anarchonet are:
+
+ i) Encrypted messages can be decrypted by brute force within the duration of a transaction, if sufficient computing power is available, which is every unlikely.
+
+ii) Transaction logs are recorded by third party payment systems used by agents, e.g. cryptocurrencies or national banking systems.
+
+iii) Anarchonet programs used by agents will not leave permanent records, unless agents use virtual machine or similar systems to log transactions, which can be detected.
+
+Without transaction logs in (iii), regulators will have a hard time piecing together traces from logs in (ii).
