@@ -53,3 +53,12 @@ Although conventional commercial money transfer services like Western Union play
 The advent of social networks has created the phenomena of Internet stars will millions of followers, with thousands of likes on videos or photos posted on a daily basis. It urgently needs a solution like Anarchonet to monetize these activities optimally. Although Facebook has launched its own cryptocurrency Libra recently, Anarchonet is much more superior, perhaps the final form of evolution in payment gateways. At the probability of 1 in 1000 users tipping USD 1 per day, based on 100 million users (a very conservative measure), that would be USD 100K of tips daily.
 
 In accordance to the spirit of free software and anarchism, we will implement Anarchonet / AnarchoToken at the initial phase as a gaming token. The future implementation in real life is beyond our control. From the investors' perspective, this is a risk free venture -- if proven to work in gaming environment, they may decide on how to actually monetize it in real life.
+
+
+### Anonymity and Decentralization
+
+Although the Internet and the Unix operating system were developed by almost the same group of programmers, the philosophies of anonymity and decentralization were not clearly separated, until one examines the fundamental significance of asymmetric cryptography.
+
+As a multi-user operating system, Unix has a centralized identity management system. Although the Internet is decentralized, the Unix servers connected to the Internet manage their users in a centralized manner. Even as modern social networks have reached billions in the number of users, the identity management of these social networks is still centralized.
+
+
