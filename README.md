@@ -61,4 +61,4 @@ Although the Internet and the Unix operating system were developed by almost the
 
 As a multi-user operating system, Unix has a centralized identity management system. Although the Internet is decentralized, the Unix servers connected to the Internet manage their users in a centralized manner. Even as modern social networks have reached billions in the number of users, the identity management of these social networks is still centralized.
 
-
+Can identity management be decentralized? The short answer is yes. The long answer is that literature on asymmetric cryptography did not address this issue explicitly. 
