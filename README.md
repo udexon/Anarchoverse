@@ -47,3 +47,5 @@ In Anarchonet, any individual person can act as a payment gateway (Anarcho Agent
 What is the barrier of entry for anyone to become an Anarcho Agent? Refer to traditional Hawala. Modern technology concentrate lots of technical advancement to make it possible ....
 
 The short answer is: Most users would have at least one bank account in the modern world, but the chances of the sender and recipient to have accounts in the same bank would be much lower. In such cases, we need a chain of Anarcho Agents who can act as payment gateways (much like Internet router) to connect the bank of the sender to the bank of the recipient. The only other missing ingredient is a system to autheticate the identities of the sender, recipient and the Anarcho Agents, which asymmetric crytography can provide.
+
+Although conventional commercial money transfer services like Western Union play the role of the payment gateway, their commission fees are quite hefty. With Anarchonet, Anarcho Agents will compete with each other to reach the lowest fees.
