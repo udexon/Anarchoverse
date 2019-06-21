@@ -37,3 +37,11 @@ How is that possible? How is such a simple idea able to destroy the global finan
 Let's remind ourselves that we are discussing the technicalities of AnarchoToken in the context of Anarchoverse -- a work of fiction and computer game.
 
 
+
+Let's call the network for transmitting payments and messages using AnarchoToken Anarchonet. We may liken the conventional banking system to the old analogue telephone network, and Anarchonet to Internet.
+
+In conventional banking system, in its most basic form, a sender can send money to the Recipient if and only if they have accounts in the same bank. If they have accounts on different banks, their banks would need to connected via payment gateways like Swift. 
+
+In Anarchonet, any individual person can act as a payment gateway (Anarcho Agent), connecting to accounts of different banks. 
+
+What is the barrier of entry for anyone to become an Anarcho Agent? Refer to traditional Hawala. Modern technology concentrate lots of technical advancement to make it possible ....
