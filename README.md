@@ -50,5 +50,5 @@ The short answer is: Most users would have at least one bank account in the mode
 
 Although conventional commercial money transfer services like Western Union play the role of the payment gateway, their commission fees are quite hefty. With Anarchonet, Anarcho Agents will compete with each other to reach the lowest fees.
 
-The advent of social networks has created the phenomena of Internet stars will millions of followers, with thousands of likes on videos or photos posted on a daily basis. It urgently needs a solution like Anarchonet to monetize these activities optimally. Although Facebook has launched its own cryptocurrency Libra recently, Anarchonet is much more superior, perhaps the final form of evolution in payment gateways.
+The advent of social networks has created the phenomena of Internet stars will millions of followers, with thousands of likes on videos or photos posted on a daily basis. It urgently needs a solution like Anarchonet to monetize these activities optimally. Although Facebook has launched its own cryptocurrency Libra recently, Anarchonet is much more superior, perhaps the final form of evolution in payment gateways. At the probability of 1 in 1000 users tipping USD 1 per day, based on 100 million users (a very conservative measure), that would be USD 100K of tips daily.
 
